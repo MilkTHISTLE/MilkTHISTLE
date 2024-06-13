@@ -20,6 +20,10 @@
 
 <br/>  
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeric0000)](https://solved.ac/aeric0000/)
+
+<br/>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -88,8 +92,7 @@
 
 <br/>  
 
-## Coding test
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeric0000)](https://solved.ac/aeric0000/)  
+
 
 
 <div align="center"></div>
