@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working since 2018 🚀</div>  
+### <div align="center">I'm Hyeonu, a full-time embedded, application developer 👨‍💻 working since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on energy safety system(ESS) from BA energy.  
