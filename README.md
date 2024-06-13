@@ -88,6 +88,8 @@
 
 <br/>  
 
+## Coding test
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeric0000)](https://solved.ac/aeric0000/)  
 
 
 <div align="center"></div>
@@ -96,4 +98,4 @@
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeric0000)](https://solved.ac/aeric0000/)  
+
